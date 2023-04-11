@@ -1,0 +1,15 @@
+write("SSL Authorization Required.")
+write("Press Y to begin", input=ssl")
+if input=='Y'==typed ||{
+  print("Begin Auth.prog")
+  do begin.prog in "/HASH/"
+ }
+/hash/ sslconfig build.inf
+/hash/ readyfolder
+print("Write hashfile 102.332.12.1")
+print("enter username:", input=usrname")
+print("enter password:", input=pswd")
+get(hashfile).load(build.inf'username')AsNew = ansusr
+if input==usrname==ansuser==typed ||{
+  print (buser !for password)
+dell.printer or maja.printer exist || dataInPrint.PRINT()
